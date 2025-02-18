@@ -1,0 +1,8 @@
+deepseek - 1702/25
+
+1. seguem planilhas de dados sobre vendas, quais paises são mais vendidos, quais moedas são utilizadas
+
+2. coloque esses dados em formato de tabela
+
+3. inclua em uma mesma tabela, formate em markdown e em clipboard para facilitar copiar e colar
+

@@ -1,0 +1,21 @@
+Insights
+
+
+1.Essa tabela combina os países com maior volume de vendas, as moedas utilizadas e as plataformas onde as vendas são mais frequentes.
+
+2.Esses dados podem ser úteis para identificar os mercados mais fortes e as moedas predominantes nas vendas internacionais.
+
+3.Países com mais vendas:
+Canadá: Aparece com frequência em todas as planilhas (AliExpress, Etsy e Shopee).
+
+Alemanha: Também é um dos principais destinos de entrega, especialmente nas vendas da AliExpress e Etsy.
+
+França: Outro país com um número significativo de vendas, principalmente na Etsy e Shopee.
+
+Austrália: Aparece com frequência nas vendas da AliExpress e Shopee.
+
+Japão: Tem um número considerável de vendas, especialmente na Etsy e Shopee.
+
+Reino Unido (UK): Presente em todas as planilhas, mas com menos volume comparado aos outros países mencionados.
+
+Estados Unidos (USA): Aparece em algumas vendas, mas em menor quantidade.

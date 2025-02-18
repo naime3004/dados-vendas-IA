@@ -1,0 +1,7 @@
+chatgpt 17/02/25
+
+1. essas planilhas são o banco de dados de uma empresa de console, preciso que voce analise e me informe quais os paises mais vendidos, quais as moedas mais utilizadas e qual a idade media,
+formate a resposta em tabela com 3 colunas, em formato markdown e clipboard para que eu copie e cole mais facilmente
+
+2. me informe a quantidade de cada item solicitado
+
